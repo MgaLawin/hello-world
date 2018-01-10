@@ -1,7 +1,7 @@
 # hello-world
 Practice project
 
-I was born in Seattle, WA, USA, and other than my mission, have only lived in the western side of Washington state.  While in Washington, I have lived in only 5 different cities.  I currently live in Puyallup, WA.
+I was born in Washington state, and other than my mission, have only lived in the western side of Washington state.  While in Washington, I have lived in only 5 different cities.
 
 I served my mission in the Cabanatuan Philippines Mission from January 1993 until January 1995.  I served in four incredible areas:
 
